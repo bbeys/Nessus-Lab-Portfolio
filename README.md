@@ -11,13 +11,11 @@ A vulnerability scanning lab using Tenable Nessus Essentials on Kali Linux. This
 - Downloaded and installed Nessus for Linux (Ubuntu)
 - Initialized the setup and completed plugin installation
 - Created a scan configuration using the **Advanced Scan** template
-- Targeted multiple local IPs (e.g., `10.0.2.15`, `10.0.2.3`, `10.0.2.2`)
+- Targeted multiple local IPs (`10.0.2.15`, `10.0.2.3`, `10.0.2.2`)
 - Generated a detailed PDF report of the scan results
 
 ## Screenshots & Report
 All screenshots and results of the scan are included in the `report` folder.
 
 ## Report File
-Please refer to the final vulnerability scan report below:
-
-
+You can view the full vulnerability scan report [here] (nessus_report.pdf).
