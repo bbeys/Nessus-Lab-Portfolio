@@ -17,26 +17,28 @@ A vulnerability scanning lab using Tenable Nessus Essentials on Kali Linux. This
 ## Screenshots 
 ## Screenshots
 
-### 1. Nessus Download Page
-![Download Page](./download-nessus.jpeg)
+Here are the key steps demonstrated with screenshots:
 
-### 2. Nessus Initializing Plugins
-![Initializing Plugins](./initializing-nessus.jpeg)
+1. **Downloading Nessus**
+   ![Downloading Nessus](screenshots/download-nessus.png)
 
-### 3. New Scan
-![Login Page](./new-scan.jpeg)
+2. **Initializing Nessus**
+   ![Initializing Nessus](screenshots/initializing-nessus.png)
 
-### 4. Scan Setup
-![Scan Setup](./scan-setup-1.jpeg)
+3. **Starting a New Scan**
+   ![New Scan](screenshots/new-scan.png)
 
-### 5. Advanced Scan 
-![Scan Results](./advanced-scan.jpeg)
+4. **Scan Configuration**
+   ![Scan Setup](screenshots/scan-setup-1.png)
 
-### 6. Scan Results
-![Report Generation](./Iscan-results.jpeg)
+5. **Advanced Scan Execution**
+   ![Advanced Scan](screenshots/advanced-scan.png)
 
-### 7. Selecting a Suitable Report Template
-![New Scan Panel](./selecting-a-suitable-report.jpeg)
+6. **Scan Results**
+   ![Scan Results](screenshots/scan-results.png)
+
+7. **Report Template Selection**
+   ![Report Template](screenshots/selecting-a-suitable-report-template.png)
 
 ## Report File
 You can view the full vulnerability scan report [here](nessus_report.pdf)
