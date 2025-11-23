@@ -18,4 +18,4 @@ A vulnerability scanning lab using Tenable Nessus Essentials on Kali Linux. This
 All screenshots and results of the scan are included in the `report` folder.
 
 ## Report File
-You can view the full vulnerability scan report [here] (nessus_report.pdf).
+You can view the full vulnerability scan report [here](/mnt/data/nessus_report.pdf).
